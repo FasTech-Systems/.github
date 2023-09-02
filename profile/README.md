@@ -1,4 +1,7 @@
 # Welcome to FasTech Systems Private Limited Organization. 
+![image](https://github.com/FasTech-Systems/.github/assets/143890480/e6fb30f0-c1de-49de-8b3a-21218e9d565d)
+
+
 ## Instructions to collaborate in projects
 
 ### Configure your machine with fastech email
