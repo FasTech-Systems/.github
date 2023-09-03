@@ -25,3 +25,15 @@
 
   git push
 ```
+
+# Notice
+
+  Make Sure to keep all the private Keys in .env file and write documentation under README.md file in every project ENV can have
+- PORT
+- DB_URL
+- PROJECT_SECRET_KEY
+- CLIENT_SECRET_KEY
+- EMAIL
+- PASSWORD
+- API_KEY
+etc
